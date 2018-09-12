@@ -1,0 +1,1326 @@
+2018-08-26 23:52:50 INFO  TestBase:28 - driver is initializing
+2018-08-26 23:52:58 INFO  LoginPageTest:23 - creatin object of login page of pom
+2018-08-27 00:01:00 INFO  TestBase:28 - driver is initializing
+2018-08-27 00:01:09 INFO  LoginPageTest:21 - creating object of login page of pom
+2018-08-27 00:01:32 INFO  LoginPageTest:37 - home page displayed......
+2018-08-27 11:07:32 INFO  TestBase:28 - driver is initializing
+2018-08-27 11:07:43 INFO  LoginPageTest:21 - creating object of login page of pom
+2018-08-27 11:08:04 INFO  LoginPageTest:37 - home page displayed......
+2018-08-27 11:43:27 INFO  TestBase:28 - driver is initializing
+2018-08-27 11:43:38 INFO  LoginPageTest:21 - creating object of login page of pom
+2018-08-27 11:44:22 INFO  TestBase:28 - driver is initializing
+2018-08-27 11:44:32 INFO  LoginPageTest:21 - creating object of login page of pom
+2018-08-27 11:47:18 INFO  TestBase:28 - driver is initializing
+2018-08-27 11:47:28 INFO  LoginPageTest:21 - creating object of login page of pom
+2018-08-27 11:53:04 INFO  TestBase:28 - driver is initializing
+2018-08-27 11:56:22 INFO  TestBase:28 - driver is initializing
+2018-08-27 11:56:30 INFO  LoginPageTest:22 - creating object of login page of pom
+2018-08-27 11:56:51 INFO  LoginPageTest:39 - home page displayed......
+2018-08-27 12:05:19 INFO  TestBase:28 - driver is initializing
+2018-08-27 12:05:29 INFO  LoginPageTest:22 - creating object of login page of pom
+2018-08-27 12:05:50 INFO  LoginPageTest:39 - home page displayed......
+2018-08-27 12:08:16 INFO  TestBase:28 - driver is initializing
+2018-08-27 12:08:24 INFO  LoginPageTest:22 - creating object of login page of pom
+2018-08-27 12:08:42 INFO  LoginPageTest:39 - home page displayed......
+2018-08-27 12:12:38 INFO  TestBase:28 - driver is initializing
+2018-08-27 12:12:47 INFO  LoginPageTest:22 - creating object of login page of pom
+2018-08-27 12:13:06 INFO  LoginPageTest:39 - home page displayed......
+2018-08-27 12:18:05,022  INFO [main] TestBase:28 - driver is initializing
+2018-08-27 12:18:13,194  INFO [main] LoginPageTest:22 - creating object of login page of pom
+2018-08-27 12:43:48 INFO  TestBase:28 - driver is initializing
+2018-08-27 12:43:56 INFO  LoginPageTest:22 - creating object of login page of pom
+2018-08-27 12:43:56 DEBUG LoginPageTest:34 - clicking on login button
+2018-08-27 12:44:23 INFO  LoginPageTest:39 - home page displayed......
+2018-08-27 17:59:37 INFO  GenericClass:27 - loading log4j file
+2018-08-27 17:59:37 INFO  GenericClass:27 - loading log4j file
+2018-08-27 17:59:37 INFO  TestBase:28 - driver is initializing
+2018-08-27 17:59:45 INFO  LoginPageTest:22 - creating object of login page of pom
+2018-08-27 17:59:45 INFO  GenericClass:27 - loading log4j file
+2018-08-27 17:59:45 INFO  GenericClass:27 - loading log4j file
+2018-08-27 17:59:46 DEBUG LoginPageTest:34 - clicking on login button
+2018-08-27 18:00:03 INFO  LoginPageTest:39 - home page displayed......
+2018-08-27 18:22:09 INFO  GenericClass:27 - loading log4j file
+2018-08-27 18:22:09 INFO  GenericClass:27 - loading log4j file
+2018-08-27 18:22:09 INFO  TestBase:45 - driver is initializing
+2018-08-27 18:22:29 INFO  LoginPageTest:22 - creating object of login page of pom
+2018-08-27 18:22:29 INFO  GenericClass:27 - loading log4j file
+2018-08-27 18:22:29 INFO  GenericClass:27 - loading log4j file
+2018-08-27 18:22:30 DEBUG LoginPageTest:34 - clicking on login button
+2018-08-27 18:23:03 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-27 18:23:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-27 18:23:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-27 18:23:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-27 18:23:03 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-27 18:26:35 INFO  GenericClass:27 - loading log4j file
+2018-08-27 18:26:35 INFO  GenericClass:27 - loading log4j file
+2018-08-27 18:26:35 INFO  TestBase:45 - driver is initializing
+2018-08-27 18:26:42 INFO  LoginPageTest:22 - creating object of login page of pom
+2018-08-27 18:26:42 INFO  GenericClass:27 - loading log4j file
+2018-08-27 18:26:42 INFO  GenericClass:27 - loading log4j file
+2018-08-27 18:26:42 DEBUG LoginPageTest:34 - clicking on login button
+2018-08-27 18:27:05 INFO  LoginPageTest:39 - home page displayed......
+2018-08-27 18:27:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-27 18:27:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-27 18:27:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-27 18:27:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-27 18:27:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 12:13:40 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:13:40 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:13:40 INFO  TestBase:45 - driver is initializing
+2018-08-28 12:14:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 12:14:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 12:14:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 12:14:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 12:14:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 12:19:56 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:19:56 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:19:56 INFO  TestBase:45 - driver is initializing
+2018-08-28 12:20:04 INFO  LoginPageTest:22 - creating object of login page of pom
+2018-08-28 12:20:04 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:20:04 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:20:04 DEBUG LoginPageTest:34 - clicking on login button
+2018-08-28 12:20:34 INFO  LoginPageTest:40 - home page displayed......
+2018-08-28 12:20:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 12:20:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 12:20:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 12:20:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 12:20:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 12:24:02 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:24:02 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:24:02 INFO  TestBase:45 - driver is initializing
+2018-08-28 12:24:09 INFO  LoginPageTest:23 - creating object of login page of pom
+2018-08-28 12:24:09 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:24:09 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:24:09 DEBUG LoginPageTest:35 - clicking on login button
+2018-08-28 12:24:45 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 12:24:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 12:24:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 12:24:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 12:24:45 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 12:47:24 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:47:24 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:47:24 INFO  TestBase:45 - driver is initializing
+2018-08-28 12:47:32 INFO  LoginPageTest:23 - creating object of login page of pom
+2018-08-28 12:47:32 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:47:32 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:47:32 DEBUG LoginPageTest:35 - clicking on login button
+2018-08-28 12:48:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 12:48:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 12:48:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 12:48:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 12:48:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 12:50:14 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:50:14 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:50:14 INFO  TestBase:45 - driver is initializing
+2018-08-28 12:50:21 INFO  LoginPageTest:23 - creating object of login page of pom
+2018-08-28 12:50:22 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:50:22 INFO  GenericClass:27 - loading log4j file
+2018-08-28 12:50:22 DEBUG LoginPageTest:35 - clicking on login button
+2018-08-28 12:50:57 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 12:50:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 12:50:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 12:50:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 12:50:57 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 13:10:06 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:10:06 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:10:06 INFO  TestBase:38 - driver is initializing
+2018-08-28 13:10:14 INFO  LoginPageTest:23 - creating object of login page of pom
+2018-08-28 13:10:14 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:10:14 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:10:14 DEBUG LoginPageTest:35 - clicking on login button
+2018-08-28 13:12:53 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:12:53 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:12:53 INFO  TestBase:38 - driver is initializing
+2018-08-28 13:13:01 INFO  LoginPageTest:23 - creating object of login page of pom
+2018-08-28 13:13:01 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:13:01 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:13:01 DEBUG LoginPageTest:35 - clicking on login button
+2018-08-28 13:19:23 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:19:23 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:19:23 INFO  TestBase:38 - driver is initializing
+2018-08-28 13:19:31 INFO  LoginPageTest:23 - creating object of login page of pom
+2018-08-28 13:19:31 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:19:31 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:19:32 DEBUG LoginPageTest:35 - clicking on login button
+2018-08-28 13:19:58 INFO  LoginPageTest:42 - home page displayed......
+2018-08-28 13:22:00 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:22:00 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:22:00 INFO  TestBase:38 - driver is initializing
+2018-08-28 13:22:08 INFO  LoginPageTest:23 - creating object of login page of pom
+2018-08-28 13:22:08 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:22:08 INFO  GenericClass:27 - loading log4j file
+2018-08-28 13:22:08 DEBUG LoginPageTest:35 - clicking on login button
+2018-08-28 13:22:33 INFO  LoginPageTest:42 - home page displayed......
+2018-08-28 15:19:35 INFO  GenericClass:27 - loading log4j file
+2018-08-28 15:19:35 INFO  GenericClass:27 - loading log4j file
+2018-08-28 15:19:35 INFO  TestBase:45 - driver is initializing
+2018-08-28 15:19:43 INFO  LoginPageTest:23 - creating object of login page of pom
+2018-08-28 15:19:43 INFO  GenericClass:27 - loading log4j file
+2018-08-28 15:19:43 INFO  GenericClass:27 - loading log4j file
+2018-08-28 15:19:43 DEBUG LoginPageTest:35 - clicking on login button
+2018-08-28 15:20:04 INFO  LoginPageTest:42 - home page displayed......
+2018-08-28 15:20:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 15:20:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 15:20:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 15:20:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 15:20:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 15:27:52 INFO  GenericClass:27 - loading log4j file
+2018-08-28 15:27:52 INFO  GenericClass:27 - loading log4j file
+2018-08-28 15:27:52 INFO  TestBase:45 - driver is initializing
+2018-08-28 15:28:00 INFO  LoginPageTest:23 - creating object of login page of pom
+2018-08-28 15:28:00 INFO  GenericClass:27 - loading log4j file
+2018-08-28 15:28:00 INFO  GenericClass:27 - loading log4j file
+2018-08-28 15:28:00 DEBUG LoginPageTest:35 - clicking on login button
+2018-08-28 15:28:28 INFO  LoginPageTest:42 - home page displayed......
+2018-08-28 15:28:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 15:28:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 15:28:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 15:28:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 15:28:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 16:18:41 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:18:41 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:18:41 INFO  TestBase:45 - driver is initializing
+2018-08-28 16:18:49 INFO  LoginPageTest:25 - creating object of login page of pom
+2018-08-28 16:18:49 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:18:49 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:18:49 DEBUG LoginPageTest:37 - clicking on login button
+2018-08-28 16:19:14 INFO  LoginPageTest:44 - home page displayed......
+2018-08-28 16:19:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 16:19:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 16:19:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 16:19:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 16:19:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 16:34:18 INFO  TestBase:93 - before class is starting
+2018-08-28 16:34:18 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:34:18 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:34:18 INFO  TestBase:46 - driver is initializing
+2018-08-28 16:34:25 INFO  LoginPageTest:25 - creating object of login page of pom
+2018-08-28 16:34:25 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:34:25 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:34:25 DEBUG LoginPageTest:37 - clicking on login button
+2018-08-28 16:34:45 INFO  LoginPageTest:44 - home page displayed......
+2018-08-28 16:34:46 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 16:34:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 16:34:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 16:34:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 16:34:46 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 16:39:19 INFO  TestBase:93 - before class is starting
+2018-08-28 16:39:19 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:39:19 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:39:19 INFO  TestBase:46 - driver is initializing
+2018-08-28 16:39:26 INFO  LoginPageTest:25 - creating object of login page of pom
+2018-08-28 16:39:26 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:39:26 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:39:27 DEBUG LoginPageTest:37 - clicking on login button
+2018-08-28 16:39:47 INFO  LoginPageTest:44 - home page displayed......
+2018-08-28 16:39:48 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 16:39:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 16:39:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 16:39:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 16:39:48 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 16:51:33 INFO  TestBase:94 - before class is starting
+2018-08-28 16:51:33 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:51:33 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:51:33 INFO  TestBase:47 - driver is initializing
+2018-08-28 16:51:40 INFO  LoginPageTest:25 - creating object of login page of pom
+2018-08-28 16:51:40 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:51:40 INFO  GenericClass:25 - loading log4j file
+2018-08-28 16:51:40 DEBUG LoginPageTest:37 - clicking on login button
+2018-08-28 16:52:04 INFO  LoginPageTest:44 - home page displayed......
+2018-08-28 16:52:04 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 16:52:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 16:52:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 16:52:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 16:52:04 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 17:00:31 INFO  TestBase:94 - before class is starting
+2018-08-28 17:00:31 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:00:31 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:00:31 INFO  TestBase:47 - driver is initializing
+2018-08-28 17:00:39 INFO  LoginPageTest:25 - creating object of login page of pom
+2018-08-28 17:00:39 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:00:39 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:00:39 DEBUG LoginPageTest:37 - clicking on login button
+2018-08-28 17:01:00 INFO  LoginPageTest:44 - home page displayed......
+2018-08-28 17:01:01 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 17:01:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 17:01:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 17:01:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 17:01:01 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 17:06:20 INFO  TestBase:108 - before class is starting
+2018-08-28 17:06:20 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:06:20 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:06:20 INFO  TestBase:50 - driver is initializing
+2018-08-28 17:06:27 INFO  LoginPageTest:25 - creating object of login page of pom
+2018-08-28 17:06:27 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:06:27 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:06:28 DEBUG LoginPageTest:37 - clicking on login button
+2018-08-28 17:06:49 INFO  LoginPageTest:44 - home page displayed......
+2018-08-28 17:06:50 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 17:06:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 17:06:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 17:06:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 17:06:50 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 17:09:31 INFO  TestBase:108 - before class is starting
+2018-08-28 17:09:31 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:09:31 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:09:31 INFO  TestBase:50 - driver is initializing
+2018-08-28 17:09:44 INFO  LoginPageTest:25 - creating object of login page of pom
+2018-08-28 17:09:44 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:09:44 INFO  GenericClass:25 - loading log4j file
+2018-08-28 17:09:45 DEBUG LoginPageTest:37 - clicking on login button
+2018-08-28 17:10:04 INFO  LoginPageTest:44 - home page displayed......
+2018-08-28 17:10:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 17:10:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 17:10:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 17:10:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 17:10:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-28 18:17:58 INFO  TestBase:108 - before class is starting
+2018-08-28 18:17:58 INFO  GenericClass:25 - loading log4j file
+2018-08-28 18:17:58 INFO  GenericClass:25 - loading log4j file
+2018-08-28 18:17:58 INFO  TestBase:50 - driver is initializing
+2018-08-28 18:18:05 INFO  LoginPageTest:25 - creating object of login page of pom
+2018-08-28 18:18:05 INFO  GenericClass:25 - loading log4j file
+2018-08-28 18:18:05 INFO  GenericClass:25 - loading log4j file
+2018-08-28 18:18:05 DEBUG LoginPageTest:37 - clicking on login button
+2018-08-28 18:18:23 INFO  LoginPageTest:44 - home page displayed......
+2018-08-28 18:18:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-28 18:18:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-28 18:18:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-28 18:18:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-28 18:18:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-29 12:19:37 INFO  TestBase:108 - before class is starting
+2018-08-29 12:19:37 INFO  GenericClass:25 - loading log4j file
+2018-08-29 12:19:37 INFO  GenericClass:25 - loading log4j file
+2018-08-29 12:19:37 INFO  TestBase:50 - driver is initializing
+2018-08-29 12:19:45 INFO  LoginPageTest:25 - creating object of login page of pom
+2018-08-29 12:19:45 INFO  GenericClass:25 - loading log4j file
+2018-08-29 12:19:45 INFO  GenericClass:25 - loading log4j file
+2018-08-29 12:19:45 DEBUG LoginPageTest:37 - clicking on login button
+2018-08-29 12:20:13 INFO  LoginPageTest:44 - home page displayed......
+2018-08-29 12:20:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-29 12:20:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-29 12:20:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-29 12:20:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-29 12:20:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-29 12:21:28 INFO  TestBase:108 - before class is starting
+2018-08-29 12:21:28 INFO  GenericClass:25 - loading log4j file
+2018-08-29 12:21:28 INFO  GenericClass:25 - loading log4j file
+2018-08-29 12:21:28 INFO  TestBase:50 - driver is initializing
+2018-08-29 12:21:36 INFO  LoginPageTest:25 - creating object of login page of pom
+2018-08-29 12:21:36 INFO  GenericClass:25 - loading log4j file
+2018-08-29 12:21:36 INFO  GenericClass:25 - loading log4j file
+2018-08-29 12:21:36 DEBUG LoginPageTest:37 - clicking on login button
+2018-08-29 12:22:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-29 12:22:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-29 12:22:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-29 12:22:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-29 12:22:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-30 10:40:21 INFO  GenericClass:25 - loading log4j file
+2018-08-30 10:40:21 INFO  GenericClass:25 - loading log4j file
+2018-08-30 10:40:21 INFO  TestBase:50 - driver is initializing
+2018-08-30 10:40:29 INFO  LoginPageTest:25 - creating object of login page of pom
+2018-08-30 10:40:29 INFO  GenericClass:25 - loading log4j file
+2018-08-30 10:40:29 INFO  GenericClass:25 - loading log4j file
+2018-08-30 10:40:30 DEBUG LoginPageTest:37 - clicking on login button
+2018-08-30 10:40:50 INFO  LoginPageTest:44 - home page displayed......
+2018-09-08 20:42:14 INFO  TestBase:113 - before class is starting
+2018-09-08 20:42:14 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:42:14 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:42:14 INFO  TestBase:53 - driver is initializing
+2018-09-08 20:42:21 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:42:21 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:42:33 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-08 20:42:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-08 20:42:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-08 20:42:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-08 20:42:33 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-08 20:46:39 INFO  TestBase:113 - before class is starting
+2018-09-08 20:46:39 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:46:39 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:46:39 INFO  TestBase:53 - driver is initializing
+2018-09-08 20:46:46 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:46:46 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:46:58 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-08 20:46:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-08 20:46:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-08 20:46:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-08 20:46:58 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-08 20:48:42 INFO  TestBase:113 - before class is starting
+2018-09-08 20:48:42 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:48:42 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:48:42 INFO  TestBase:53 - driver is initializing
+2018-09-08 20:48:49 INFO  LoginPageTest:23 - creating object of login page of pom
+2018-09-08 20:48:49 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:48:49 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:49:00 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-08 20:49:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-08 20:49:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-08 20:49:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-08 20:49:00 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-08 20:49:23 INFO  TestBase:113 - before class is starting
+2018-09-08 20:49:23 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:49:23 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:49:23 INFO  TestBase:53 - driver is initializing
+2018-09-08 20:49:29 INFO  LoginPageTest:23 - creating object of login page of pom
+2018-09-08 20:49:29 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:49:29 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:49:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-08 20:49:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-08 20:49:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-08 20:49:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-08 20:49:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-08 20:52:58 INFO  TestBase:113 - before class is starting
+2018-09-08 20:52:58 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:52:58 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:52:58 INFO  TestBase:53 - driver is initializing
+2018-09-08 20:53:05 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:53:05 INFO  GenericClass:42 - loading log4j file
+2018-09-08 20:53:05 DEBUG LoginPageTest:32 - clicking on login button
+2018-09-08 20:53:22 INFO  LoginPageTest:36 - home page displayed......
+2018-09-08 20:53:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-08 20:53:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-08 20:53:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-08 20:53:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-08 20:53:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 13:37:47 INFO  TestBase:113 - before class is starting
+2018-09-10 13:37:47 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:37:47 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:37:47 INFO  TestBase:53 - driver is initializing
+2018-09-10 13:37:55 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:37:55 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:37:55 DEBUG AddPersonTest:32 - clicking on login button
+2018-09-10 13:38:13 INFO  AddPersonTest:35 - home page displayed......
+2018-09-10 13:38:13 INFO  AddPersonTest:38 - selecting customer
+2018-09-10 13:38:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 13:38:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 13:38:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 13:38:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 13:38:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 13:40:24 INFO  TestBase:113 - before class is starting
+2018-09-10 13:40:24 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:40:24 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:40:24 INFO  TestBase:53 - driver is initializing
+2018-09-10 13:40:31 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:40:31 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:40:32 DEBUG AddPersonTest:32 - clicking on login button
+2018-09-10 13:40:50 INFO  AddPersonTest:35 - home page displayed......
+2018-09-10 13:40:50 INFO  AddPersonTest:38 - selecting customer
+2018-09-10 13:40:51 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 13:40:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 13:40:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 13:40:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 13:40:51 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 13:42:54 INFO  TestBase:113 - before class is starting
+2018-09-10 13:42:54 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:42:54 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:42:54 INFO  TestBase:53 - driver is initializing
+2018-09-10 13:43:02 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:43:02 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:43:02 DEBUG AddPersonTest:32 - clicking on login button
+2018-09-10 13:43:20 INFO  AddPersonTest:35 - home page displayed......
+2018-09-10 13:43:20 INFO  AddPersonTest:38 - selecting customer
+2018-09-10 13:43:28 INFO  AddPersonTest:40 - clicking on search vendor
+2018-09-10 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 13:43:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 13:44:27 INFO  TestBase:113 - before class is starting
+2018-09-10 13:44:27 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:44:27 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:44:27 INFO  TestBase:53 - driver is initializing
+2018-09-10 13:44:34 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:44:34 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:44:35 DEBUG AddPersonTest:32 - clicking on login button
+2018-09-10 13:44:52 INFO  AddPersonTest:35 - home page displayed......
+2018-09-10 13:44:52 INFO  AddPersonTest:38 - selecting customer
+2018-09-10 13:45:00 INFO  AddPersonTest:40 - clicking on search vendor
+2018-09-10 13:45:02 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 13:45:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 13:45:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 13:45:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 13:45:02 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 13:46:34 INFO  TestBase:113 - before class is starting
+2018-09-10 13:46:34 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:46:34 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:46:34 INFO  TestBase:53 - driver is initializing
+2018-09-10 13:46:35 INFO  TestBase:113 - before class is starting
+2018-09-10 13:46:35 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:46:35 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:46:35 INFO  TestBase:53 - driver is initializing
+2018-09-10 13:46:42 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:46:42 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:46:43 DEBUG AddPersonTest:32 - clicking on login button
+2018-09-10 13:46:43 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:46:43 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:46:43 DEBUG AddPersonTest:32 - clicking on login button
+2018-09-10 13:46:59 INFO  AddPersonTest:35 - home page displayed......
+2018-09-10 13:46:59 INFO  AddPersonTest:38 - selecting customer
+2018-09-10 13:47:00 INFO  AddPersonTest:40 - clicking on search vendor
+2018-09-10 13:47:02 INFO  AddPersonTest:35 - home page displayed......
+2018-09-10 13:47:02 INFO  AddPersonTest:38 - selecting customer
+2018-09-10 13:47:08 INFO  TestBase:113 - before class is starting
+2018-09-10 13:47:08 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:47:08 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:47:08 INFO  TestBase:53 - driver is initializing
+2018-09-10 13:47:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 13:47:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 13:47:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 13:47:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 13:47:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 13:47:15 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:47:15 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:47:15 DEBUG AddPersonTest:32 - clicking on login button
+2018-09-10 13:47:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 13:47:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 13:47:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 13:47:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 13:47:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 13:47:50 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 13:47:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 13:47:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 13:47:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 13:47:50 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 13:47:59 INFO  TestBase:113 - before class is starting
+2018-09-10 13:47:59 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:47:59 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:47:59 INFO  TestBase:53 - driver is initializing
+2018-09-10 13:48:06 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:48:06 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:48:06 DEBUG AddPersonTest:32 - clicking on login button
+2018-09-10 13:48:24 INFO  AddPersonTest:35 - home page displayed......
+2018-09-10 13:48:24 INFO  AddPersonTest:38 - selecting customer
+2018-09-10 13:48:32 INFO  AddPersonTest:40 - clicking on search vendor
+2018-09-10 13:48:34 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 13:48:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 13:48:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 13:48:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 13:48:34 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 13:52:20 INFO  TestBase:113 - before class is starting
+2018-09-10 13:52:20 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:52:20 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:52:20 INFO  TestBase:53 - driver is initializing
+2018-09-10 13:52:53 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 13:52:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 13:52:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 13:52:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 13:52:53 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 13:53:02 INFO  TestBase:113 - before class is starting
+2018-09-10 13:53:02 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:53:02 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:53:02 INFO  TestBase:53 - driver is initializing
+2018-09-10 13:53:10 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:53:10 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:53:10 DEBUG AddPersonTest:33 - clicking on login button
+2018-09-10 13:53:32 INFO  AddPersonTest:36 - home page displayed......
+2018-09-10 13:53:32 INFO  AddPersonTest:39 - selecting customer
+2018-09-10 13:53:40 INFO  AddPersonTest:41 - clicking on search vendor
+2018-09-10 13:53:41 INFO  AddPersonTest:44 - Navigating to add new person page
+2018-09-10 13:53:43 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 13:53:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 13:53:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 13:53:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 13:53:43 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 13:54:16 INFO  TestBase:113 - before class is starting
+2018-09-10 13:54:16 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:54:16 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:54:16 INFO  TestBase:53 - driver is initializing
+2018-09-10 13:54:24 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:54:24 INFO  GenericClass:42 - loading log4j file
+2018-09-10 13:54:24 DEBUG AddPersonTest:33 - clicking on login button
+2018-09-10 13:54:41 INFO  AddPersonTest:36 - home page displayed......
+2018-09-10 13:54:41 INFO  AddPersonTest:39 - selecting customer
+2018-09-10 13:54:49 INFO  AddPersonTest:41 - clicking on search vendor
+2018-09-10 13:54:50 INFO  AddPersonTest:44 - Navigating to add new person page
+2018-09-10 13:54:52 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 13:54:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 13:54:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 13:54:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 13:54:52 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 14:29:00 INFO  TestBase:113 - before class is starting
+2018-09-10 14:29:01 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:29:01 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:29:01 INFO  TestBase:53 - driver is initializing
+2018-09-10 14:29:08 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:29:08 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:29:08 DEBUG AddPersonTest:33 - clicking on login button
+2018-09-10 14:29:27 INFO  AddPersonTest:36 - home page displayed......
+2018-09-10 14:29:27 INFO  AddPersonTest:39 - selecting customer
+2018-09-10 14:29:35 INFO  AddPersonTest:41 - clicking on search vendor
+2018-09-10 14:29:37 INFO  AddPersonTest:44 - Navigating to add new person page
+2018-09-10 14:29:38 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 14:29:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 14:29:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 14:29:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 14:29:38 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 14:30:45 INFO  TestBase:113 - before class is starting
+2018-09-10 14:30:45 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:30:45 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:30:45 INFO  TestBase:53 - driver is initializing
+2018-09-10 14:30:52 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:30:52 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:30:52 DEBUG AddPersonTest:33 - clicking on login button
+2018-09-10 14:31:14 INFO  AddPersonTest:36 - home page displayed......
+2018-09-10 14:31:14 INFO  AddPersonTest:39 - selecting customer
+2018-09-10 14:31:22 INFO  AddPersonTest:41 - clicking on search vendor
+2018-09-10 14:31:23 INFO  AddPersonTest:44 - Navigating to add new person page
+2018-09-10 14:31:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 14:31:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 14:31:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 14:31:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 14:31:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 14:32:43 INFO  TestBase:113 - before class is starting
+2018-09-10 14:32:43 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:32:43 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:32:43 INFO  TestBase:53 - driver is initializing
+2018-09-10 14:32:51 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:32:51 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:32:52 DEBUG AddPersonTest:33 - clicking on login button
+2018-09-10 14:33:14 INFO  AddPersonTest:36 - home page displayed......
+2018-09-10 14:33:14 INFO  AddPersonTest:39 - selecting customer
+2018-09-10 14:33:21 INFO  AddPersonTest:41 - clicking on search vendor
+2018-09-10 14:33:22 INFO  AddPersonTest:44 - Navigating to add new person page
+2018-09-10 14:33:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 14:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 14:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 14:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 14:33:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 14:35:03 INFO  TestBase:113 - before class is starting
+2018-09-10 14:35:03 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:35:03 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:35:03 INFO  TestBase:53 - driver is initializing
+2018-09-10 14:35:10 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:35:10 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:35:10 DEBUG AddPersonTest:33 - clicking on login button
+2018-09-10 14:35:31 INFO  AddPersonTest:36 - home page displayed......
+2018-09-10 14:35:31 INFO  AddPersonTest:39 - selecting customer
+2018-09-10 14:35:38 INFO  AddPersonTest:41 - clicking on search vendor
+2018-09-10 14:35:40 INFO  AddPersonTest:44 - Navigating to add new person page
+2018-09-10 14:35:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 14:35:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 14:35:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 14:35:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 14:35:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 14:36:29 INFO  TestBase:113 - before class is starting
+2018-09-10 14:36:29 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:36:29 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:36:29 INFO  TestBase:53 - driver is initializing
+2018-09-10 14:36:36 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:36:36 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:36:36 DEBUG AddPersonTest:33 - clicking on login button
+2018-09-10 14:36:55 INFO  AddPersonTest:36 - home page displayed......
+2018-09-10 14:36:55 INFO  AddPersonTest:39 - selecting customer
+2018-09-10 14:37:02 INFO  AddPersonTest:41 - clicking on search vendor
+2018-09-10 14:37:03 INFO  AddPersonTest:44 - Navigating to add new person page
+2018-09-10 14:37:46 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 14:37:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 14:37:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 14:37:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 14:37:46 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 14:38:34 INFO  TestBase:113 - before class is starting
+2018-09-10 14:38:34 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:38:34 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:38:34 INFO  TestBase:53 - driver is initializing
+2018-09-10 14:38:42 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:38:42 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:38:42 DEBUG AddPersonTest:33 - clicking on login button
+2018-09-10 14:39:02 INFO  AddPersonTest:36 - home page displayed......
+2018-09-10 14:39:02 INFO  AddPersonTest:39 - selecting customer
+2018-09-10 14:39:09 INFO  AddPersonTest:41 - clicking on search vendor
+2018-09-10 14:39:11 INFO  AddPersonTest:44 - Navigating to add new person page
+2018-09-10 14:39:53 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 14:39:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 14:39:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 14:39:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 14:39:53 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 14:40:05 INFO  TestBase:113 - before class is starting
+2018-09-10 14:40:05 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:40:05 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:40:05 INFO  TestBase:53 - driver is initializing
+2018-09-10 14:40:11 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:40:11 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:40:12 DEBUG AddPersonTest:33 - clicking on login button
+2018-09-10 14:40:30 INFO  AddPersonTest:36 - home page displayed......
+2018-09-10 14:40:30 INFO  AddPersonTest:39 - selecting customer
+2018-09-10 14:40:39 INFO  AddPersonTest:41 - clicking on search vendor
+2018-09-10 14:40:40 INFO  AddPersonTest:44 - Navigating to add new person page
+2018-09-10 14:40:51 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 14:40:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 14:40:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 14:40:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 14:40:51 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 14:43:21 INFO  TestBase:113 - before class is starting
+2018-09-10 14:43:21 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:43:21 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:43:21 INFO  TestBase:53 - driver is initializing
+2018-09-10 14:43:28 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:43:28 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:43:28 DEBUG AddPersonTest:33 - clicking on login button
+2018-09-10 14:43:48 INFO  AddPersonTest:36 - home page displayed......
+2018-09-10 14:43:48 INFO  AddPersonTest:39 - selecting customer
+2018-09-10 14:43:54 INFO  AddPersonTest:41 - clicking on search vendor
+2018-09-10 14:43:57 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 14:43:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 14:43:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 14:43:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 14:43:57 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 14:45:49 INFO  TestBase:113 - before class is starting
+2018-09-10 14:45:49 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:45:49 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:45:49 INFO  TestBase:53 - driver is initializing
+2018-09-10 14:45:56 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:45:56 INFO  GenericClass:42 - loading log4j file
+2018-09-10 14:45:56 DEBUG AddPersonTest:33 - clicking on login button
+2018-09-10 14:46:28 INFO  AddPersonTest:36 - home page displayed......
+2018-09-10 14:46:28 INFO  AddPersonTest:39 - selecting customer
+2018-09-10 14:46:35 INFO  AddPersonTest:41 - clicking on search vendor
+2018-09-10 14:46:36 INFO  AddPersonTest:46 - clicking on abc contractor
+2018-09-10 14:46:47 INFO  AddPersonTest:48 - Navigating to add new person page
+2018-09-10 14:46:50 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 14:46:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 14:46:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 14:46:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 14:46:50 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 17:05:00 INFO  TestBase:113 - before class is starting
+2018-09-10 17:05:53 INFO  TestBase:113 - before class is starting
+2018-09-10 17:12:31 INFO  TestBase:113 - before class is starting
+2018-09-10 17:12:32 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:12:32 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:12:32 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:12:40 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:12:40 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:12:40 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:12:58 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:12:58 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:13:07 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:13:08 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:13:12 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:13:26 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 17:13:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 17:13:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 17:13:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 17:13:26 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 17:17:11 INFO  TestBase:113 - before class is starting
+2018-09-10 17:17:11 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:17:11 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:17:11 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:17:18 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:17:18 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:17:18 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:17:36 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:17:36 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:17:43 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:17:45 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:17:49 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:17:53 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 17:17:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 17:17:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 17:17:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 17:17:53 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 17:22:10 INFO  TestBase:113 - before class is starting
+2018-09-10 17:22:11 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:22:11 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:22:11 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:22:18 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:22:18 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:22:19 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:22:37 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:22:37 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:22:45 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:22:46 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:22:50 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:24:08 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 17:24:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 17:24:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 17:24:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 17:24:08 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 17:24:16 INFO  TestBase:113 - before class is starting
+2018-09-10 17:24:17 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:24:17 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:24:17 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:24:24 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:24:24 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:24:24 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:24:40 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:24:40 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:24:47 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:24:48 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:24:52 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:26:15 INFO  TestBase:113 - before class is starting
+2018-09-10 17:26:16 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:26:16 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:26:16 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:26:24 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:26:24 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:26:24 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:26:50 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:26:50 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:26:57 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:27:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 17:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 17:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 17:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 17:27:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 17:27:24 INFO  TestBase:113 - before class is starting
+2018-09-10 17:27:25 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:27:25 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:27:25 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:27:32 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:27:32 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:27:32 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:27:53 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:27:53 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:28:00 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:28:01 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:28:05 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:28:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 17:28:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 17:28:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 17:28:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 17:28:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 17:34:52 INFO  TestBase:113 - before class is starting
+2018-09-10 17:34:52 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:34:52 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:34:52 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:35:00 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:35:00 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:35:00 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:35:18 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:35:18 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:35:26 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:35:27 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:35:32 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:35:37 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 17:35:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 17:35:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 17:35:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 17:35:37 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 17:35:57 INFO  TestBase:113 - before class is starting
+2018-09-10 17:35:57 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:35:57 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:35:57 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:36:04 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:36:04 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:36:05 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:36:22 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:36:22 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:36:30 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:36:31 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:36:35 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:38:51 INFO  TestBase:113 - before class is starting
+2018-09-10 17:38:51 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:38:51 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:38:51 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:38:59 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:38:59 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:38:59 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:39:21 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:39:21 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:39:30 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:39:32 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:39:36 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:40:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 17:40:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 17:40:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 17:40:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 17:40:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 17:41:20 INFO  TestBase:113 - before class is starting
+2018-09-10 17:41:21 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:41:21 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:41:21 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:41:28 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:41:28 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:41:28 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:41:45 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:41:45 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:41:53 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:42:06 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:42:20 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:44:21 INFO  TestBase:113 - before class is starting
+2018-09-10 17:44:21 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:44:21 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:44:21 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:44:29 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:44:29 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:44:29 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:44:46 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:44:46 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:44:54 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:44:55 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:44:59 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:52:12 INFO  TestBase:113 - before class is starting
+2018-09-10 17:52:12 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:52:12 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:52:12 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:52:22 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:52:22 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:52:22 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:52:40 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:52:40 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:52:47 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:52:48 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:52:53 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:54:37 INFO  TestBase:113 - before class is starting
+2018-09-10 17:54:38 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:54:38 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:54:38 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:54:45 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:54:45 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:54:45 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:55:06 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:55:06 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:55:13 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:55:15 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:55:19 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 17:59:05 INFO  TestBase:113 - before class is starting
+2018-09-10 17:59:05 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:59:05 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:59:05 INFO  TestBase:53 - driver is initializing
+2018-09-10 17:59:12 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:59:12 INFO  GenericClass:42 - loading log4j file
+2018-09-10 17:59:12 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 17:59:30 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 17:59:30 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 17:59:38 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 17:59:39 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 17:59:44 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 18:00:49 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 18:00:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 18:00:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 18:00:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 18:00:49 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 18:01:33 INFO  TestBase:113 - before class is starting
+2018-09-10 18:01:34 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:01:34 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:01:34 INFO  TestBase:53 - driver is initializing
+2018-09-10 18:01:41 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:01:41 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:01:41 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 18:02:04 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 18:02:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 18:02:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 18:02:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 18:02:04 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 18:03:20 INFO  TestBase:113 - before class is starting
+2018-09-10 18:03:20 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:03:20 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:03:20 INFO  TestBase:53 - driver is initializing
+2018-09-10 18:03:28 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:03:28 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:03:28 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 18:03:47 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 18:03:47 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 18:03:55 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 18:03:56 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 18:04:00 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 18:10:58 INFO  TestBase:113 - before class is starting
+2018-09-10 18:10:59 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:10:59 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:10:59 INFO  TestBase:53 - driver is initializing
+2018-09-10 18:11:06 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:11:06 INFO  GenericClass:42 - loading log4j file
+2018-09-10 18:11:06 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 18:11:26 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 18:11:26 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 18:11:34 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 18:11:36 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 18:11:40 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 18:11:45 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 18:11:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 18:11:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 18:11:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 18:11:45 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 21:03:08 INFO  TestBase:113 - before class is starting
+2018-09-10 21:03:09 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:03:09 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:03:09 INFO  TestBase:53 - driver is initializing
+2018-09-10 21:03:17 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:03:17 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:03:17 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 21:03:35 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 21:03:35 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 21:03:43 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 21:03:45 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 21:03:49 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 21:03:56 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 21:03:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 21:03:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 21:03:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 21:03:56 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 21:05:01 INFO  TestBase:113 - before class is starting
+2018-09-10 21:05:01 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:05:01 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:05:01 INFO  TestBase:53 - driver is initializing
+2018-09-10 21:05:08 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:05:08 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:05:09 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 21:05:26 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 21:05:26 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 21:05:34 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 21:05:35 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 21:05:40 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 21:05:48 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 21:05:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 21:05:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 21:05:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 21:05:48 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 21:12:05 INFO  TestBase:113 - before class is starting
+2018-09-10 21:12:05 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:12:05 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:12:05 INFO  TestBase:53 - driver is initializing
+2018-09-10 21:12:15 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:12:15 INFO  GenericClass:42 - loading log4j file
+2018-09-10 21:12:15 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 21:12:33 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 21:12:33 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 21:12:40 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 21:12:41 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 21:12:45 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 21:12:55 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 21:12:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 21:12:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 21:12:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 21:12:55 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:22:08 INFO  TestBase:113 - before class is starting
+2018-09-10 23:22:08 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:22:08 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:22:08 INFO  TestBase:53 - driver is initializing
+2018-09-10 23:22:17 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:22:17 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:22:17 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 23:22:42 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 23:22:42 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 23:22:55 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 23:22:57 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 23:23:02 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 23:23:10 ERROR AddNewPersonPage:123 - person is not added
+2018-09-10 23:23:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:23:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:23:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:23:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:23:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:28:50 INFO  TestBase:113 - before class is starting
+2018-09-10 23:28:50 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:28:50 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:28:50 INFO  TestBase:53 - driver is initializing
+2018-09-10 23:29:01 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:29:01 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:29:01 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 23:29:21 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 23:29:21 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 23:30:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:30:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:30:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:30:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:30:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:30:21 INFO  TestBase:113 - before class is starting
+2018-09-10 23:30:22 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:30:22 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:30:22 INFO  TestBase:53 - driver is initializing
+2018-09-10 23:30:30 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:30:30 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:30:30 DEBUG AddPersonTest:42 - clicking on login button
+2018-09-10 23:30:54 INFO  AddPersonTest:45 - home page displayed......
+2018-09-10 23:30:54 INFO  AddPersonTest:48 - selecting customer
+2018-09-10 23:31:11 INFO  AddPersonTest:50 - clicking on search vendor
+2018-09-10 23:31:13 INFO  AddPersonTest:55 - clicking on abc contractor
+2018-09-10 23:31:18 INFO  AddPersonTest:57 - Navigating to add new person page
+2018-09-10 23:31:31 ERROR AddNewPersonPage:126 - person is not added
+2018-09-10 23:31:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:31:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:31:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:31:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:31:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:35:49 INFO  TestBase:113 - before class is starting
+2018-09-10 23:35:49 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:35:49 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:35:49 INFO  TestBase:53 - driver is initializing
+2018-09-10 23:36:00 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:36:00 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:36:00 DEBUG LoginPageTest:33 - clicking on login button
+2018-09-10 23:36:33 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:36:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:36:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:36:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:36:33 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:38:09 INFO  TestBase:113 - before class is starting
+2018-09-10 23:38:09 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:38:09 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:38:09 INFO  TestBase:53 - driver is initializing
+2018-09-10 23:38:27 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:38:27 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:38:27 DEBUG LoginPageTest:33 - clicking on login button
+2018-09-10 23:39:00 INFO  LoginPageTest:37 - home page displayed......
+2018-09-10 23:39:07 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:39:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:39:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:39:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:39:07 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:39:08 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:39:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:39:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:39:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:39:08 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:39:12 INFO  TestBase:113 - before class is starting
+2018-09-10 23:39:12 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:39:12 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:39:12 INFO  TestBase:53 - driver is initializing
+2018-09-10 23:39:20 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:39:20 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:39:20 DEBUG LoginPageTest:33 - clicking on login button
+2018-09-10 23:39:40 INFO  LoginPageTest:37 - home page displayed......
+2018-09-10 23:39:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:39:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:39:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:39:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:39:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:39:41 INFO  TestBase:113 - before class is starting
+2018-09-10 23:39:42 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:39:42 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:39:42 INFO  TestBase:53 - driver is initializing
+2018-09-10 23:39:48 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:39:48 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:39:48 DEBUG AddPersonPageTest:42 - clicking on login button
+2018-09-10 23:40:06 INFO  AddPersonPageTest:45 - home page displayed......
+2018-09-10 23:40:06 INFO  AddPersonPageTest:48 - selecting customer
+2018-09-10 23:40:15 INFO  AddPersonPageTest:50 - clicking on search vendor
+2018-09-10 23:40:16 INFO  AddPersonPageTest:55 - clicking on abc contractor
+2018-09-10 23:40:21 INFO  AddPersonPageTest:57 - Navigating to add new person page
+2018-09-10 23:40:42 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:40:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:40:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:40:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:40:42 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:44:21 INFO  TestBase:113 - before class is starting
+2018-09-10 23:44:21 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:44:21 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:44:21 INFO  TestBase:53 - driver is initializing
+2018-09-10 23:44:28 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:44:28 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:44:29 DEBUG LoginPageTest:33 - clicking on login button
+2018-09-10 23:44:51 INFO  LoginPageTest:37 - home page displayed......
+2018-09-10 23:44:52 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:44:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:44:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:44:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:44:52 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:44:52 INFO  TestBase:113 - before class is starting
+2018-09-10 23:44:53 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:44:53 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:44:53 INFO  TestBase:53 - driver is initializing
+2018-09-10 23:44:59 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:44:59 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:44:59 DEBUG AddPersonPageTest:42 - clicking on login button
+2018-09-10 23:45:16 INFO  AddPersonPageTest:45 - home page displayed......
+2018-09-10 23:45:16 INFO  AddPersonPageTest:48 - selecting customer
+2018-09-10 23:45:25 INFO  AddPersonPageTest:50 - clicking on search vendor
+2018-09-10 23:45:27 INFO  AddPersonPageTest:55 - clicking on abc contractor
+2018-09-10 23:45:31 INFO  AddPersonPageTest:57 - Navigating to add new person page
+2018-09-10 23:46:04 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:46:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:46:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:46:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:46:04 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:48:12 INFO  TestBase:113 - before class is starting
+2018-09-10 23:48:12 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:48:12 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:48:12 INFO  TestBase:53 - driver is initializing
+2018-09-10 23:48:19 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:48:19 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:48:19 DEBUG LoginPageTest:33 - clicking on login button
+2018-09-10 23:48:40 INFO  LoginPageTest:37 - home page displayed......
+2018-09-10 23:48:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:48:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:48:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:48:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:48:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-10 23:48:41 INFO  TestBase:113 - before class is starting
+2018-09-10 23:48:42 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:48:42 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:48:42 INFO  TestBase:53 - driver is initializing
+2018-09-10 23:48:48 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:48:48 INFO  GenericClass:42 - loading log4j file
+2018-09-10 23:48:48 DEBUG AddPersonPageTest:42 - clicking on login button
+2018-09-10 23:49:06 INFO  AddPersonPageTest:45 - home page displayed......
+2018-09-10 23:49:06 INFO  AddPersonPageTest:48 - selecting customer
+2018-09-10 23:49:15 INFO  AddPersonPageTest:50 - clicking on search vendor
+2018-09-10 23:49:16 INFO  AddPersonPageTest:55 - clicking on abc contractor
+2018-09-10 23:49:20 INFO  AddPersonPageTest:57 - Navigating to add new person page
+2018-09-10 23:50:10 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-10 23:50:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-10 23:50:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-10 23:50:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-10 23:50:10 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-11 11:43:13 INFO  TestBase:113 - before class is starting
+2018-09-11 11:43:13 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:43:13 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:43:13 INFO  TestBase:53 - driver is initializing
+2018-09-11 11:44:03 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:44:03 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:44:03 DEBUG AddPersonPageTest:42 - clicking on login button
+2018-09-11 11:44:32 INFO  AddPersonPageTest:45 - home page displayed......
+2018-09-11 11:44:32 INFO  AddPersonPageTest:48 - selecting customer
+2018-09-11 11:45:19 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-11 11:45:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-11 11:45:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-11 11:45:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-11 11:45:19 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-11 11:45:42 INFO  TestBase:113 - before class is starting
+2018-09-11 11:45:43 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:45:43 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:45:43 INFO  TestBase:53 - driver is initializing
+2018-09-11 11:45:56 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:45:56 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:45:56 DEBUG AddPersonPageTest:42 - clicking on login button
+2018-09-11 11:47:11 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-11 11:47:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-11 11:47:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-11 11:47:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-11 11:47:11 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-11 11:47:19 INFO  TestBase:113 - before class is starting
+2018-09-11 11:47:20 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:47:20 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:47:20 INFO  TestBase:53 - driver is initializing
+2018-09-11 11:47:48 INFO  TestBase:113 - before class is starting
+2018-09-11 11:47:49 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:47:49 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:47:49 INFO  TestBase:53 - driver is initializing
+2018-09-11 11:47:59 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:47:59 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:48:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-11 11:48:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-11 11:48:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-11 11:48:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-11 11:48:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-11 11:48:37 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:48:37 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:48:48 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-11 11:48:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-11 11:48:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-11 11:48:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-11 11:48:48 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-11 11:48:54 INFO  TestBase:113 - before class is starting
+2018-09-11 11:48:55 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:48:55 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:48:55 INFO  TestBase:53 - driver is initializing
+2018-09-11 11:49:03 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:49:03 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:49:03 DEBUG AddPersonPageTest:42 - clicking on login button
+2018-09-11 11:49:29 INFO  AddPersonPageTest:45 - home page displayed......
+2018-09-11 11:49:29 INFO  AddPersonPageTest:48 - selecting customer
+2018-09-11 11:49:36 INFO  AddPersonPageTest:50 - clicking on search vendor
+2018-09-11 11:49:38 INFO  AddPersonPageTest:55 - clicking on abc contractor
+2018-09-11 11:50:11 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-11 11:50:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-11 11:50:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-11 11:50:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-11 11:50:11 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-11 11:52:02 INFO  TestBase:113 - before class is starting
+2018-09-11 11:52:03 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:52:03 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:52:03 INFO  TestBase:53 - driver is initializing
+2018-09-11 11:52:10 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:52:10 INFO  GenericClass:42 - loading log4j file
+2018-09-11 11:52:10 DEBUG AddPersonPageTest:42 - clicking on login button
+2018-09-11 11:52:38 INFO  AddPersonPageTest:45 - home page displayed......
+2018-09-11 11:52:38 INFO  AddPersonPageTest:48 - selecting customer
+2018-09-11 11:52:46 INFO  AddPersonPageTest:50 - clicking on search vendor
+2018-09-11 11:52:57 INFO  AddPersonPageTest:55 - clicking on abc contractor
+2018-09-11 11:53:30 INFO  AddPersonPageTest:57 - Navigating to add new person page
+2018-09-11 12:06:30 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-11 12:06:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-11 12:06:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-11 12:06:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-11 12:06:30 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-11 12:07:50 INFO  TestBase:113 - before class is starting
+2018-09-11 12:07:51 INFO  GenericClass:42 - loading log4j file
+2018-09-11 12:07:51 INFO  GenericClass:42 - loading log4j file
+2018-09-11 12:07:51 INFO  TestBase:53 - driver is initializing
+2018-09-11 12:07:58 INFO  GenericClass:42 - loading log4j file
+2018-09-11 12:07:58 INFO  GenericClass:42 - loading log4j file
+2018-09-11 12:07:58 DEBUG AddPersonPageTest:42 - clicking on login button
+2018-09-11 12:08:40 INFO  AddPersonPageTest:45 - home page displayed......
+2018-09-11 12:08:40 INFO  AddPersonPageTest:48 - selecting customer
+2018-09-11 12:10:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-11 12:10:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-11 12:10:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-11 12:10:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-11 12:10:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-12 16:02:09 INFO  TestBase:113 - before class is starting
+2018-09-12 16:02:09 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:02:09 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:02:09 INFO  TestBase:53 - driver is initializing
+2018-09-12 16:02:16 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:02:16 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:02:16 DEBUG LoginPageTest:33 - clicking on login button
+2018-09-12 16:04:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-12 16:04:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-12 16:04:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-12 16:04:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-12 16:04:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-12 16:04:18 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-12 16:04:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-12 16:04:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-12 16:04:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-12 16:04:18 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-12 16:05:37 INFO  TestBase:113 - before class is starting
+2018-09-12 16:05:37 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:05:37 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:05:37 INFO  TestBase:53 - driver is initializing
+2018-09-12 16:05:45 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:05:45 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:05:45 DEBUG LoginPageTest:33 - clicking on login button
+2018-09-12 16:06:14 INFO  LoginPageTest:37 - home page displayed......
+2018-09-12 16:06:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-12 16:06:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-12 16:06:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-12 16:06:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-12 16:06:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-12 16:06:15 INFO  TestBase:113 - before class is starting
+2018-09-12 16:06:16 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:06:16 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:06:16 INFO  TestBase:53 - driver is initializing
+2018-09-12 16:06:23 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:06:23 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:06:23 DEBUG AddPersonPageTest:42 - clicking on login button
+2018-09-12 16:06:44 INFO  AddPersonPageTest:45 - home page displayed......
+2018-09-12 16:06:44 INFO  AddPersonPageTest:48 - selecting customer
+2018-09-12 16:07:06 INFO  AddPersonPageTest:50 - clicking on search vendor
+2018-09-12 16:07:07 INFO  AddPersonPageTest:55 - clicking on abc contractor
+2018-09-12 16:07:25 INFO  AddPersonPageTest:57 - Navigating to add new person page
+2018-09-12 16:07:52 ERROR AddNewPersonPage:127 - person is not added
+2018-09-12 16:07:52 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-12 16:07:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-12 16:07:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-12 16:07:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-12 16:07:52 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-12 16:11:42 INFO  TestBase:113 - before class is starting
+2018-09-12 16:11:42 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:11:42 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:11:42 INFO  TestBase:53 - driver is initializing
+2018-09-12 16:11:49 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:11:49 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:11:49 DEBUG LoginPageTest:33 - clicking on login button
+2018-09-12 16:12:12 INFO  LoginPageTest:37 - home page displayed......
+2018-09-12 16:12:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-12 16:12:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-12 16:12:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-12 16:12:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-12 16:12:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-12 16:12:14 INFO  TestBase:113 - before class is starting
+2018-09-12 16:12:14 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:12:14 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:12:14 INFO  TestBase:53 - driver is initializing
+2018-09-12 16:12:21 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:12:21 INFO  GenericClass:42 - loading log4j file
+2018-09-12 16:12:21 DEBUG AddPersonPageTest:42 - clicking on login button
+2018-09-12 16:12:40 INFO  AddPersonPageTest:45 - home page displayed......
+2018-09-12 16:12:40 INFO  AddPersonPageTest:48 - selecting customer
+2018-09-12 16:13:03 INFO  AddPersonPageTest:50 - clicking on search vendor
+2018-09-12 16:13:04 INFO  AddPersonPageTest:55 - clicking on abc contractor
+2018-09-12 16:13:22 INFO  AddPersonPageTest:57 - Navigating to add new person page
+2018-09-12 16:14:22 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-12 16:14:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-12 16:14:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-12 16:14:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-12 16:14:22 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/swamysan/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
